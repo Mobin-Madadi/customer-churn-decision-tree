@@ -66,8 +66,11 @@ Decision Trees are supervised learning algorithms that can be used for classific
 
 ## Model Evaluation
 
-The model is evaluated using classification metrics such as:
+The Decision Tree model achieved an accuracy of 83% on the test set.
 
+Accuracy: 0.83
+
+The model was also evaluated using:
 * Accuracy
 * Decision Tree
 * Confusion Matrix
