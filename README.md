@@ -87,7 +87,7 @@ The project includes several visualizations, including:
 customer-churn-decision-tree/
 │
 ├── data/
-│   └── customer_churn_decision_tree.csv
+│   └── customer_churn.csv
 │
 ├── notebooks/
 │   └── customer_churn.ipynb
